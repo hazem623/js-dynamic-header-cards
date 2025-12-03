@@ -17,3 +17,8 @@ The page includes:
 - Smooth animations on hover
 
 ## 📁 Project Structure
+
+project-folder/
+│── index.html
+│── main.js
+│── main.css (optional)
